@@ -1,4 +1,4 @@
-export const (req, res, next) => {
+module.exports = (req, res, next) => {
 
     req.getParam = (key, defaultValue) => {
         const value = [req.body[key], req.query[key], req.params[key], defaultValue].find(v => v !== undefined)
