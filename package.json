@@ -1,6 +1,6 @@
 {
   "name": "requestio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utils as midleware for express request and response",
   "main": "index.js",
   "repository": "git@github.com:shovity/requestio.git",
