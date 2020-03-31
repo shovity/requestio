@@ -1,0 +1,9 @@
+{
+  "name": "requestio",
+  "version": "1.0.0",
+  "description": "Utils as midleware for express request and response",
+  "main": "index.js",
+  "repository": "git@github.com:shovity/requestio.git",
+  "author": "huongnv <huowngnv@jamja.vn>",
+  "license": "MIT"
+}
